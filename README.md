@@ -12,3 +12,9 @@ go run filename.go
 #To build a executable file of go lang program
 go build filname.go
 
+#Data types in go lang
+1. Boolean- Have two values i.e. true, false. To print boolean values use %v .
+2. 
+
+#Operators
+1. Assignment operator --> :=
