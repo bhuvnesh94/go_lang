@@ -1,5 +1,7 @@
-//package declaration
 package main
+
+//package declaration
+//package main
 
 //format
 import "fmt"
