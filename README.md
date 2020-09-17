@@ -7,6 +7,8 @@ https://golang.org/doc/install
 Set go path by exporting go path in PATH variable and adding that in $HOMA/.bashrc file
 export PATH=$PATH:/usr/local/go/bin
 
+fmt is a core library package that contains functionalities related to formatting and printing output or reading input from various I/O sources
+
 #To run a go language file
 go run filename.go
 #To build a executable file of go lang program
